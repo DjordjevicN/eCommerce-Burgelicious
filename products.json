@@ -1,0 +1,46 @@
+{
+    "items": [
+        {
+            "id": "1",
+            "title": "Original burger",
+            "price": 10,
+            "image": "./images/1.jpg",
+            "description": "For real meatlovers! The Big Burger comes with our thickest patty, we recommend getting it medium grilled with a pink center so you can feel the flavor of our carefully selected fresh beef."
+        },
+        {
+            "id": "2",
+            "title": "Hipster",
+            "price": 20,
+            "image": "./images/2.jpeg",
+            "description": "For real meatlovers! The Big Burger comes with our thickest patty, we recommend getting it medium grilled with a pink center so you can feel the flavor of our carefully selected fresh beef."
+        },
+        {
+            "id": "3",
+            "title": "Monster",
+            "price": 30,
+            "image": "./images/3.jpeg",
+            "description": "For real meatlovers! The Big Burger comes with our thickest patty, we recommend getting it medium grilled with a pink center so you can feel the flavor of our carefully selected fresh beef."
+        },
+        {
+            "id": "4",
+            "title": "Cheese",
+            "price": 40,
+            "image": "./images/4.jpeg",
+            "description": "If you choose this size we recommend that you add an extra patty and you will get a delicious double burger. Add double Cheddar and you will get a Double Double which might be one of the best combos."
+        },
+        {
+            "id": "5",
+            "title": "Smokehouse",
+            "price": 50,
+            "image": "./images/5.jpeg",
+            "description": "For real meatlovers! The Big Burger comes with our thickest patty, we recommend getting it medium grilled with a pink center so you can feel the flavor of our carefully selected fresh beef."
+        },
+        {
+            "id": "6",
+            "title": " Veggie",
+            "price": 60,
+            "image": "./images/6.png",
+            "description": "If you choose this size we recommend that you add an extra patty and you will get a delicious double burger. Add double Cheddar and you will get a Double Double which might be one of the best combos."
+        }
+    ]
+}
